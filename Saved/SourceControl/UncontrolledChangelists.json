@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/MyProject/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Daging/T_Smoked_Meat_weukfcwaa_2K_D.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Daging/T_Smoked_Meat_weukfcwaa_2K_N.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Daging/T_SmokedMeat_weukfcwaa_2K_DpR.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Daging/MI_Smoked_Meat_weukfcwaa_2K.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Daging/S_Smoked_Meat_weukfcwaa_lod3_Var1.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Smoked_Meat_weukfcwaa/S_Smoked_Meat_weukfcwaa_lod3_Var1.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Smoked_Meat_weukfcwaa/MI_Smoked_Meat_weukfcwaa_2K.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Smoked_Meat_weukfcwaa/T_SmokedMeat_weukfcwaa_2K_DpR.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Smoked_Meat_weukfcwaa/T_Smoked_Meat_weukfcwaa_2K_N.uasset",
+				"F:/MyProject/MyProject2/Content/Megascans/3D_Assets/Smoked_Meat_weukfcwaa/T_Smoked_Meat_weukfcwaa_2K_D.uasset",
+				"F:/MyProject/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/81/D4TXCOZVMH3BIQFAB6C6VZ.uasset",
+				"F:/MyProject/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/3Z/AFS52DAP4KDT9IBV0IFI3Q.uasset",
+				"F:/MyProject/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/8C/X0CS73MEYH6LTS7S910A1D.uasset",
+				"F:/MyProject/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5G/COR9OW1NZDFKDH9SXH4HZ4.uasset",
+				"F:/MyProject/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset"
+			]
+		}
+	]
+}
